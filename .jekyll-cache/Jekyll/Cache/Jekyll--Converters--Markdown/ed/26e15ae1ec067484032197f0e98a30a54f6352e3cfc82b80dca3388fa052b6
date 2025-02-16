@@ -1,8 +1,6 @@
-I"X<p><strong>We are looking for self-motivated PhD students to join our team!</strong> <a href="http://localhost:4000/openings">(see openings)</a></p>
+I"€<h2 id="about-immd-lab">About IMMD Lab</h2>
 
-<h2 id="about-icmd-lab">About ICMD Lab</h2>
-
-<p>ICMD Lab is an interdisciplinary research lab in the <a href="https://www.binghamton.edu/mechanical-engineering/index.html">Department of Mechanical Engineering</a> at the <a href="https://binghamton.edu/">State University of New York (SUNY) at Binghamton</a>.</p>
+<p>IMMD Lab is an interdisciplinary research lab in the <a href="https://www.binghamton.edu/mechanical-engineering/index.html">Department of Mechanical Engineering</a> at the <a href="https://binghamton.edu/">State University of New York (SUNY) at Binghamton</a>.</p>
 
 <p>Our <strong>research vision</strong> is that the integration of physics-based and data-driven models will be indispensable for 
 systematic process and materials design for advanced manufacturing processes in the near future.</p>
@@ -11,7 +9,7 @@ systematic process and materials design for advanced manufacturing processes in 
 <ul>
   <li>Multiscale multiphysics modeling and simulation for metal additive manufacturing</li>
   <li>Physics-informed machine learning</li>
-  <li>Optimization and uncertainty quantification</li>
+  <li>Optimization and generative design</li>
   <li>Process monitoring and control for digital twins in metal additive manufacturing</li>
 </ul>
 
@@ -30,22 +28,22 @@ systematic process and materials design for advanced manufacturing processes in 
     <!-- Items -->
     <div class="carousel-inner">
         <div class="item active">
-            <img src="http://localhost:4000/images/slider/Research_Framework.png" alt="Slide 1" />
+            <img src="http://localhost:8080/images/slider/Research_Framework.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="http://localhost:4000/images/slider/Ti64.jpg" alt="Slide 2" />
+            <img src="http://localhost:8080/images/slider/Ti64.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="http://localhost:4000/images/slider/AlSi10Mg.jpg" alt="Slide 3" />
+            <img src="http://localhost:8080/images/slider/AlSi10Mg.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="http://localhost:4000/images/slider/PCNN.png" alt="Slide 4" />
+            <img src="http://localhost:8080/images/slider/PCNN.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="http://localhost:4000/images/slider/Dendrites.png" alt="Slide 5" />
+            <img src="http://localhost:8080/images/slider/Dendrites.png" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="http://localhost:4000/images/slider/BO.png" alt="Slide 6" />
+            <img src="http://localhost:8080/images/slider/BO.png" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -58,9 +56,10 @@ systematic process and materials design for advanced manufacturing processes in 
   </a>
 </div>
 
-<p>We are grateful for the funding from Binghamton University.</p>
+<p>We are grateful for the funding from Binghamton University and National Science Foundation.</p>
 
-<figure class="fourth">
-  <p><img src="http://localhost:4000/images/logo/Logo_Binghamton.jpg" style="width: 210px" /></p>
-</figure>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <p><img src="http://localhost:8080/images/logo/Logo_Binghamton.jpg" style="height: 100px; margin-right: 200 px;" />
+  <img src="http://localhost:8080/images/logo/NSF_Official_logo.png" style="height: 200px;" /></p>
+</div>
 :ET

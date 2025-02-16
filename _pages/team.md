@@ -1,7 +1,7 @@
 ---
-title: "ICMD Lab - Team"
+title: "IMMD Lab - Team"
 layout: gridlay
-excerpt: "ICMD Lab: Team members"
+excerpt: "IMMD Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -18,7 +18,7 @@ Assistant Professor <br>
 Department of Mechanical Engineering <br>
 State University of New York at Binghamton <br>
 Email: [dehaoliu@binghamton.edu](mailto:dehaoliu@binghamton.edu) <br>
-[Long Curriculum Vitae]({{ site.url }}{{ site.baseurl }}/downloads/DehaoLiu_CV.pdf) <br>
+[Long Curriculum Vitae]({{ site.url }}{{ site.baseurl }}/downloads/CV_Dehao_Liu_External.pdf) <br>
 [Department Profile](https://www.binghamton.edu/mechanical-engineering/people/profile.html?id=dehaoliu)
 
 ### Education & Empolyment
@@ -30,14 +30,14 @@ Email: [dehaoliu@binghamton.edu](mailto:dehaoliu@binghamton.edu) <br>
 ### Research Areas
 * Multiscale Multiphysics Modeling and Simulation
 * Physics-Informed Machine Learning
-* Optimization and Uncertainty Quantification
+* Optimization and Generative Design
 * Process monitoring and control
 
 ### Teaching
+* ME 303 - Engineering Computational Method
 * ME 417 - Intro to Finite Element Method
 * ME 571 - Manufacturing Processes I 
-* ME 303 - Engineering Computational Method
-* ME 531X - Applied Machine Learning for ME
+* ME 531 - Applied Machine Learning for ME
 
 # PhD Students
 
@@ -45,8 +45,17 @@ Email: [dehaoliu@binghamton.edu](mailto:dehaoliu@binghamton.edu) <br>
 Guangfa Li, Spring 2023- <br>
 MS, South China University of Technology, China <br>
 BS, Southwest Jiaotong University, China <br>
-Research: Physics-informed machine learning; In-situ process monitoring for metal additive manufacturing <br>
-Email: [gli12@binghamton.edu](mailto:gli12@binghamton.edu)
+Research: Physics-informed machine learning; Generative design <br>
+Email: [gli12@binghamton.edu](mailto:gli12@binghamton.edu) <br>
+
+<br>
+<br>
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/JiaqiYang.jpg){: style="width: 200px; float: left; margin: 0px  20px"}
+Jiaqi Yang, Fall 2023- <br>
+BS, Shenzhen Technology University, China <br>
+Research: Multiscale multiphysics modeling of multi-materials metal additive manufacturing <br>
+Email: [jyang46@binghamton.edu ](mailto:jyang46@binghamton.edu ) <br>
 
 <br>
 
@@ -56,7 +65,7 @@ Email: [gli12@binghamton.edu](mailto:gli12@binghamton.edu)
 Matthew W Olson, Summer 2022- <br>
 Undergaduate student, Binghamton University, United States <br>
 Research: In-situ process monitoring for metal additive manufacturing <br>
-Email: [molson6@binghamton.edu](mailto:molson6@binghamton.edu ) 
+Email: [molson6@binghamton.edu](mailto:molson6@binghamton.edu ) <br>
 
 <br>
 <br>
@@ -65,5 +74,7 @@ Email: [molson6@binghamton.edu](mailto:molson6@binghamton.edu )
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Kumar.jpg){: style="width: 200px; float: left; margin: 0px  20px"}
 Anirudh Ramkumar Sivasankaran, Summer 2023- <br>
 Undergaduate student, Binghamton University, United States <br>
-Research: Design of optical enclosure <br>
-Email: [asivasa1@binghamton.edu](mailto:asivasa1@binghamton.edu )
+Research: Design of optical enclosure; Interlocking metasurfaces for multi-material additive manufacturing <br>
+Email: [asivasa1@binghamton.edu](mailto:asivasa1@binghamton.edu ) <br>
+
+<br>

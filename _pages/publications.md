@@ -1,7 +1,7 @@
 ---
-title: "ICMD Lab - Publications"
+title: "IMMD Lab - Publications"
 layout: gridlay
-excerpt: "ICMD Lab -- Publications."
+excerpt: "IMMD Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

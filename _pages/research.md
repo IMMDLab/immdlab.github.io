@@ -1,7 +1,7 @@
 ---
-title: "ICMD Lab - Research"
+title: "IMMD Lab - Research"
 layout: textlay
-excerpt: "ICMD Lab -- Research"
+excerpt: "IMMD Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
@@ -33,7 +33,7 @@ Physics-informed machine learning has been considered to alleviate the issue of 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/research/PCNN.png){: style="height: 250px; margin: 0px  10px"}
 
-## Optimization and Uncertainty Quantification
+## Optimization and Generative Design
 To conduct systematic metal additive manufacturing process optimization, a hybrid physics-based data-driven process design framework was developed to establish reliable surrogates of process-structure relationships. The process design framework includes a mesoscale multiphysics simulation model to predict microstructure evolution, a physics-constrained neural network to construct the surrogate of the process-structure relationship, and Bayesian optimization for process design. The proposed framework is demonstrated by optimizing the initial temperature and cooling rate for the single dendritic growth of Ti-6Al-4V alloy during rapid solidification in metal AM so that the desired dendritic area and microsegregation level can be achieved. The Pareto front for dendritic growth was constructed with the **multi-objective Bayesian optimization** method. The proposed process design framework is generic and can be potentially applied in materials design and digital twins of metal AM.
 
 <table><tr>

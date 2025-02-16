@@ -1,14 +1,14 @@
 ---
-title: "ICMD Lab - Home"
+title: "IMMD Lab - Home"
 layout: homelay
-excerpt: "ICMD Lab at Binghamton University."
+excerpt: "IMMD Lab at Binghamton University."
 sitemap: false
 permalink: /
 ---
 
-## About ICMD Lab
+## About IMMD Lab
 
-ICMD Lab is an interdisciplinary research lab in the [Department of Mechanical Engineering](https://www.binghamton.edu/mechanical-engineering/index.html) at the [State University of New York (SUNY) at Binghamton](https://binghamton.edu/). 
+IMMD Lab is an interdisciplinary research lab in the [Department of Mechanical Engineering](https://www.binghamton.edu/mechanical-engineering/index.html) at the [State University of New York (SUNY) at Binghamton](https://binghamton.edu/). 
 
 Our **research vision** is that the integration of physics-based and data-driven models will be indispensable for 
 systematic process and materials design for advanced manufacturing processes in the near future. 
@@ -16,7 +16,7 @@ systematic process and materials design for advanced manufacturing processes in 
 Our **research mission** is to create and integrate novel computational tools (physics-based and data-driven) at different time- and length-scales to solve forward and inverse problems of **Process-Structure-Property** relationships. Current primary research topics include but not limited to:
 * Multiscale multiphysics modeling and simulation for metal additive manufacturing
 * Physics-informed machine learning
-* Optimization and uncertainty quantification
+* Optimization and generative design
 * Process monitoring and control for digital twins in metal additive manufacturing
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -63,8 +63,9 @@ Our **research mission** is to create and integrate novel computational tools (p
 </div>
 
 
-We are grateful for the funding from Binghamton University.
+We are grateful for the funding from Binghamton University and National Science Foundation.
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/Logo_Binghamton.jpg" style="width: 210px">
-</figure>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/Logo_Binghamton.jpg" style="height: 80px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/NSF_Official_logo.png" style="height: 200px;">
+</div>
