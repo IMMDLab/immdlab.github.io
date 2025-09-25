@@ -1,0 +1,81 @@
+I"g<h1 id="facilities">Facilities</h1>
+
+<p>Our lab is equipped with advanced experimental and computational resources to support cutting-edge research in <strong>metal additive manufacturing</strong>, <strong>multiphysics modeling</strong>, and <strong>physics-informed machine learning</strong>.</p>
+
+<h2 id="additive-manufacturing">Additive Manufacturing</h2>
+
+<h3 id="xact-metal-xm200g--laser-powder-bed-fusion-lpbf-3d-printer">Xact Metal XM200G – Laser Powder Bed Fusion (LPBF) 3D Printer</h3>
+
+<p><img src="http://localhost:4001/images/facilities/XM200G.jpg" alt="Xact Metal XM200G Printer" style="float:right; margin:0 0 1em 1em;" width="300" /></p>
+
+<p>The <strong>Xact Metal XM200G</strong> is a state-of-the-art metal laser powder bed fusion (LPBF) 3D printer featuring:</p>
+
+<ul>
+  <li><strong>Laser:</strong> Single 200 W Ytterbium fiber laser</li>
+  <li><strong>Build volume:</strong> 150 × 150 × 150 mm (5.9 × 5.9 × 5.9 in)</li>
+  <li><strong>Spot size:</strong> 100 μm</li>
+  <li><strong>Layer thickness:</strong> 20–100 μm</li>
+  <li><strong>Supported materials:</strong> Stainless steels (316L, 17-4 PH), aluminum (AlSi10Mg), titanium (Ti64)</li>
+  <li><strong>Integrated glovebox and powder handling</strong> for safe, efficient operation</li>
+</ul>
+
+<p>This system enables <strong>high-precision, high-performance metal AM</strong> for research and prototyping.</p>
+
+<h2 id="diagnostics--sensing">Diagnostics &amp; Sensing</h2>
+
+<h3 id="single-camera-two-wavelength-pyrometry-stwp-system">Single-Camera Two-Wavelength Pyrometry (STWP) System</h3>
+<p>A cutting-edge diagnostic system for <strong>high-speed thermal imaging</strong> during LPBF and other high-temperature processes.</p>
+
+<p>Key features:</p>
+<ul>
+  <li><strong>Temperature range:</strong> 800–3000 K</li>
+  <li><strong>Spatial resolution:</strong> 48.83 μm/pixel over 50 mm × 50 mm field of view</li>
+  <li><strong>Frame rate:</strong> Up to 6,400 fps at 1024 × 1024 pixels; up to 800,000 fps with reduced field of view (128 × 16 pixels)</li>
+  <li><strong>Dual-wavelength pyrometry:</strong> Captures radiative intensities at 550 nm and 620 nm to calculate melt pool temperature via Planck’s law</li>
+  <li><strong>Optics:</strong> 50:50 and polarizing beamsplitters, co-axial alignment for accurate in-situ monitoring</li>
+</ul>
+
+<p>Applications include <strong>real-time monitoring of melt pool dynamics</strong>, failure detection, and <strong>high-temperature oxidation studies</strong>.</p>
+
+<h2 id="computational-resources">Computational Resources</h2>
+
+<h3 id="local-workstations">Local Workstations</h3>
+<ul>
+  <li><strong>High-performance workstation:</strong>
+    <ul>
+      <li>Intel® Core™ i9-10980XE (18 cores @ 3.0 GHz)</li>
+      <li>128 GB RAM</li>
+      <li>Dual NVIDIA RTX 3090 GPUs (10,496 CUDA cores, 24 GB memory each)</li>
+      <li>2 TB local storage</li>
+    </ul>
+  </li>
+  <li><strong>Three additional workstations:</strong>
+    <ul>
+      <li>Equipped with engineering software (Matlab, Python, ANSYS, COMSOL, Flow3D, etc.)</li>
+      <li>Configurations:
+        <ul>
+          <li>8-core CPU + NVIDIA RTX 3080 GPU</li>
+          <li>8-core CPU + NVIDIA RTX 3080 GPU</li>
+          <li>12-core CPU + NVIDIA RTX 4060 Ti GPU</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Data storage:</strong> Synology NAS with <strong>60 TB total capacity</strong> for large simulation datasets and research data.</li>
+</ul>
+
+<h3 id="high-performance-computing-hpc-cluster--binghamton-university">High-Performance Computing (HPC) Cluster – Binghamton University</h3>
+<p>We have access to the <strong>“Spiedie” HPC cluster</strong> hosted at Binghamton University’s Thomas J. Watson College of Engineering &amp; Applied Science:</p>
+<ul>
+  <li><strong>Head node:</strong> Dual Intel® Xeon® E5-2640 v4 CPUs, 128 GB RAM, SSD storage</li>
+  <li><strong>Storage:</strong> 328 TB NFS with 56/400 Gb/s InfiniBand</li>
+  <li><strong>Compute nodes:</strong> 143 heterogeneous nodes, 3,372 cores, including NVIDIA H100 NVL, A40, A5000, and P100 GPUs</li>
+  <li><strong>Networking:</strong> InfiniBand (40–400 Gb/s) &amp; 1 Gb Ethernet</li>
+  <li><strong>Job scheduling:</strong> SLURM with Bright Cluster Manager<br />
+Additional compute time can be requested from <strong>ACCESS (Advanced Cyberinfrastructure Coordination Ecosystem: Services &amp; Support)</strong> if needed.</li>
+</ul>
+
+<hr />
+
+<p>These facilities empower our team to conduct <strong>end-to-end research</strong> — from <strong>metal AM fabrication</strong> and <strong>in-situ diagnostics</strong> to <strong>high-fidelity simulation</strong> and <strong>physics-informed AI model development</strong>.</p>
+:ET
